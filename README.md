@@ -1,6 +1,6 @@
 # web_view_flutter
 
-A new Flutter project.
+A flutter example showing basic use of webview_fluttter plugin to show webview inside Flutter app.
 
 ## Getting Started
 
