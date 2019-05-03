@@ -17,7 +17,7 @@ You may also like to read more on webviews in flutter on following great article
 -[Medium: The Power of WebViews in Flutter by: Emily Fortuna](https://medium.com/flutter-io/the-power-of-webviews-in-flutter-a56234b57df2)
 another good article 
 
-Known Issue: webview_flutter plugin has known issue on android the soft keyboard does not open when text field is focused. This issue is reported and already in fix by Google team. (https://github.com/flutter/flutter/issues/26226)
+***Known Issue***: webview_flutter plugin has known issue on Android the soft keyboard does not open when text field is focused. This issue is reported and already in fix by Google team. (https://github.com/flutter/flutter/issues/26226)
 
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
